@@ -1,12 +1,15 @@
-# README
+<p align = "center"><img src="https://media.giphy.com/media/fX5cZemSfX1cMZYuUJ/giphy.gif" width="150" /></p>
 
-# 💫 Hi There!
-### 🔭 I’m a software developer, transforming ideas into software, one feature at a time.
+<h1 align="center"> 💫 Hello, There! </h1>
+
+### 🎀 I am a software developer, transforming ideas into software, one feature at a time.
 📖 I am currently a Master's student, studying CS at University of Southern California.<br>
 👯 I’m looking to collaborate on Full stack projects/Hackathons<br>
 🤝 I’m looking for help with resume review/interview preparation<br>
 🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence<br>
 ⚡ Outside of work, you would find me reading books, watching series and baking <br>
+
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
 
 ## 🌐 Socials:
