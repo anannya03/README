@@ -1,7 +1,12 @@
 # README
 
-# 💫 About Me:
-🔭 I’m currently working on React and Headstarter AI fellowship<br>👯 I’m looking to collaborate on Full stack projects/Hackathons<br>🤝 I’m looking for help with interview preparation<br>🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence<br>💬 Ask me about <br>⚡ Hobbies are reading books, baking and travelling
+# 💫 Hi There!
+### 🔭 I’m a software developer, transforming ideas into software, one feature at a time.
+📖 I am currently a Master's student, studying CS at University of Southern California.<br>
+👯 I’m looking to collaborate on Full stack projects/Hackathons<br>
+🤝 I’m looking for help with resume review/interview preparation<br>
+🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence<br>
+⚡ Outside of work, you would find me reading books, watching series and baking <br>
 
 
 ## 🌐 Socials:
