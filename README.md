@@ -3,17 +3,23 @@
 <h1 align="center"> 💫 Hello, There! </h1>
 
 ### 🎀 I am a software developer, transforming ideas into software, one feature at a time.
-📖 I am currently a Master's student, studying CS at University of Southern California.<br>
-👯 I’m looking to collaborate on Full stack projects/Hackathons<br>
-🤝 I’m looking for help with resume review/interview preparation<br>
-🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence<br>
-⚡ Outside of work, you would find me reading books, watching series and baking <br>
+📖 I am currently a Master's student, studying CS at University of Southern California.<br><br>
+👯 I’m looking to collaborate on Full stack projects/Hackathons.<br><br>
+🤝 I’m looking for help with resume review/interview preparation.<br><br>
+🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence.<br><br>
+⚡ Outside of work, you would find me reading books, watching series and baking.<br><br>
+☎️ Contact me via <a href="https://www.linkedin.com/in/anannya-p-03a6a3110"><img src="https://img.shields.io/badge/LinkedIn-indigo?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> or <a href="mailto:patranannya@gmail.com"><img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=email&logoColor=black" alt="Email Badge"></a>, if you have a job opporutunity or a project proposal for me or just wanna grab a coffee. <br>
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anannya-p-03a6a3110) 
+<a href="https://www.linkedin.com/in/anannya-p-03a6a3110"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://discord.gg/JPbyxpDQ"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
+<a href="https://www.reddit.com/u/Anannya3/s/QEgrdhwIpH"><img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
+<a href="https://leetcode.com/u/anannyap_03/"><img src="https://img.shields.io/badge/Leetcode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"></a>
+<a href="https://www.hackerrank.com/profile/anannyapatra"><img src="https://img.shields.io/badge/Hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Badge"></a>
+<a href="https://medium.com/@anannyapatra"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Hackerrank Badge"></a>
 
 # 💻 Tech Stack:
 ## Language:
@@ -41,7 +47,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=anannya03&theme=dark&hide_border=false)<br/>
+[![Anannya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anannya03&theme=radical&width=200)](https://github.com/anannya03/github-readme-activity-graph)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anannya03&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anannya03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
