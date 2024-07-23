@@ -3,12 +3,12 @@
 <h1 align="center"> 💫 Hello, There! </h1>
 
 ### 🎀 I am a software developer, transforming ideas into software, one feature at a time.
-📖 I am currently a Master's student, studying CS at University of Southern California.<br><br>
+📖 I am currently a Master's student, studying CS at University of Southern California. FIGHT ON! ✌🏻<br><br>
 👯 I’m looking to collaborate on Full stack projects/Hackathons.<br><br>
 🤝 I’m looking for help with resume review/interview preparation.<br><br>
 🌱 I’m currently expanding my skillset in Machine Learning/Artificial Intelligence.<br><br>
 ⚡ Outside of work, you would find me reading books, watching series and baking.<br><br>
-☎️ Contact me via <a href="https://www.linkedin.com/in/anannya-p-03a6a3110"><img src="https://img.shields.io/badge/LinkedIn-indigo?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> or <a href="mailto:patranannya@gmail.com"><img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=email&logoColor=black" alt="Email Badge"></a>, if you have a job opporutunity or a project proposal for me or just wanna grab a coffee. ☕ <br>
+☎️ Contact me via <a href="https://www.linkedin.com/in/anannya-p-03a6a3110"><img src="https://img.shields.io/badge/LinkedIn-indigo?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> or <a href="mailto:patranannya@gmail.com"><img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=email&logoColor=black" alt="Email Badge"></a>, if you have a job opporutunity or a project proposal for me or just wanna grab a coffee. ☕ <br><br>
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
