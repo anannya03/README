@@ -47,7 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Anannya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anannya03&theme=radical&width=200)](https://github.com/anannya03/github-readme-activity-graph)
+[![Anannya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anannya03&theme=redical&background)](https://github.com/anannya03/github-readme-activity-graph)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anannya03&theme=dark&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anannya03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
